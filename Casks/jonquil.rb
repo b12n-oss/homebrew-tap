@@ -1,6 +1,6 @@
 cask "jonquil" do
-  version "0.4.3"
-  sha256 "4c00504e6834db5c6f9f8f21edb91e6489cad1ffeeb195bedd91bbdf388082d4"
+  version "0.4.4"
+  sha256 "44276b256f309ae8f3fe80da86c8883b8e7b6300b3918a5558cb952b8add35ac"
 
   url "https://github.com/b12n-oss/jonquil/releases/download/v#{version}/Jonquil-#{version}-macos-arm64.dmg"
   name "Jonquil"
